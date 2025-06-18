@@ -13,11 +13,13 @@ This project reproduces the results of a published study on credit card fraud de
 ---
 
 ## 📁 Project Structure
+  ```bash
 ├── data/ # Dynamic retrieval from Kaggle
 ├── notebooks/
 │ └── fraud_detection.ipynb
 ├── Report.pdf
 └── README.md
+  ```
 
 
 ---
