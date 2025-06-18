@@ -78,3 +78,6 @@ Each model was trained on balanced and imbalanced versions of the datasets using
 - SMOTE
 
 Evaluation metrics include accuracy, precision, recall, and F1 score. EarlyStopping and learning rate callbacks were also used to improve generalization and avoid overfitting.
+## ✍️ Author
+
+**Federica Topazio**  
